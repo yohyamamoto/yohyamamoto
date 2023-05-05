@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yohyamamoto
-- 👀 I’m interested in density functional theory (DFT) and computational physics working on software development, theory development, and parameter tuning. 
+- 👀 I’m interested in density functional theory (DFT) and computational physics working on software development, theory development, parameter tuning, data science, and machine learning. 
 - 🌱 I’m currently learning quantum chemistry and machine learning.
 - 💞️ I’m looking to collaborate on science and programming projects.
 - 📫 You can reach me on yyamamoto at utep.edu.
